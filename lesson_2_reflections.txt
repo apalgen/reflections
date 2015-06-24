@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+A local Git repository and the hidden .git folder is created but no files are added yet.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area includes all files watched by Git but not necessarily all files in the project. You can choose which files are watched by Git.
