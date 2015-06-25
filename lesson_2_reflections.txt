@@ -11,3 +11,8 @@ The staging area includes all files watched by Git but not necessarily all files
 How can you use the staging area to make sure you have one commit per logical change?
 
 By only adding the files needed for this logical change to the staging area.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When you want to keep the master branche free of experiments or create different versions of the project.
