@@ -6,3 +6,8 @@ A local Git repository and the hidden .git folder is created but no files are ad
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area includes all files watched by Git but not necessarily all files in the project. You can choose which files are watched by Git.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+By only adding the files needed for this logical change to the staging area.
