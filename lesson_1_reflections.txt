@@ -19,7 +19,7 @@ docs does?
 Why do you think some version control systems, like Git, allow saving multiple
 files in one commit, while others, like Google Docs, treat each file separately?
 
-    Because Git is for projects with multible files which depend on each other.
+    Because Git is for projects with multiple files which depend on each other.
 
 How can you use the commands git log and git diff to view the history of files?
 
@@ -33,3 +33,4 @@ could break something?
 Now that you have your workspace set up, what do you want to try using Git for?
 
     Doing the Android Nanodegree from Udacity
+    

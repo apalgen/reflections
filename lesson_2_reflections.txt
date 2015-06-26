@@ -1,33 +1,27 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-A local Git repository and the hidden .git folder is created but no files are added yet.
-
+    A local Git repository and the hidden .git folder is created but no files are added yet.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-The staging area includes all files watched by Git but not necessarily all files in the project. You can choose which files are watched by Git.
-
+    The staging area includes all files watched by Git but not necessarily all files in the project. You can choose which files are watched by Git.
 
 How can you use the staging area to make sure you have one commit per logical change?
 
-By only adding the files needed for this logical change to the staging area.
-
+    By only adding the files needed for this logical change to the staging area.
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
-When you want to keep the master branche free of experiments or create different versions of the project.
-
+    When you want to keep the master branch free of experiments or create different versions of the project.
 
 How do the diagrams help you visualize the branch structure?
 
-They give you a better overview of the structure and you can see unreachable endings.
-
+    They give you a better overview of the structure and you can see unreachable endings.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
-The code of the two branches is put together and the current branche is replaced by the merged one. The second branche which is merged into the first (current) branch can be deleted (which only deletes the label of the second branche)
-
+    The code of the two branches is put together and the current branch is replaced by the merged one. The second branch which is merged into the first (current) branch can be deleted (which only deletes the label of the second branch)
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 
-It's easy and optimal if the automatic merging works, but if there are conflicts you have to manually resolve the conflict and merge manually.
+    It's easy and optimal if the automatic merging works, but if there are conflicts you have to manually resolve the conflict and merge manually.
