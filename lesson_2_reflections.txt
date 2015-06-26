@@ -21,3 +21,8 @@ When you want to keep the master branche free of experiments or create different
 How do the diagrams help you visualize the branch structure?
 
 They give you a better overview of the structure and you can see unreachable endings.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The code of the two branches is put together and the current branche is replaced by the merged one. The second branche which is merged into the first (current) branch can be deleted (which only deletes the label of the second branche)
