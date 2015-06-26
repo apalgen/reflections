@@ -26,3 +26,8 @@ They give you a better overview of the structure and you can see unreachable end
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The code of the two branches is put together and the current branche is replaced by the merged one. The second branche which is merged into the first (current) branch can be deleted (which only deletes the label of the second branche)
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+It's easy and optimal if the automatic merging works, but if there are conflicts you have to manually resolve the conflict and merge manually.
