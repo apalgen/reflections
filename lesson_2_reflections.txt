@@ -16,3 +16,8 @@ By only adding the files needed for this logical change to the staging area.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 When you want to keep the master branche free of experiments or create different versions of the project.
+
+
+How do the diagrams help you visualize the branch structure?
+
+They give you a better overview of the structure and you can see unreachable endings.
