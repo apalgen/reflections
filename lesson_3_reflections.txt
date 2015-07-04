@@ -19,3 +19,7 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 	Comment old changed lines out so that the old code is never lost, but it would be much longer code to read with all the comments and difficult to exchange the files, perhaps with Dropbox.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+	When you want to experiment with things without breaking master you make a branch, but you need to merge it later into master. If you directly make changes in master you have no need for merging later but it's not a good idea if you work with other persons on the code.
